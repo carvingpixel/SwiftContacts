@@ -341,7 +341,7 @@ var Transportation  = {
 var GEMA =  {
     GEMA: {
         Name : 'Benjamin Franklin',
-        Phone : '678-586-0961''
+        Phone : '678-586-0961'
     }
 };
 /*CONSTRUCTION  --------------------------------------------- */
