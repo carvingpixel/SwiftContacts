@@ -4,8 +4,9 @@ body {background-color:#0F1225;}ul {margin-left: 0;}ul ul, ol ul, ul ol, ol ol {
 #safetyHeader {margin:0;padding:10px 0 6px 0;text-align:center;}
 #safetyHeader {border-bottom:3px solid #eab93b;}
 #safetyHeader h1 {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
-#safetyHeader h1 a {color:#eab93b;font-weight:normal;text-transform:uppercase;}
+#safetyHeader h1 a {color:#eab93b;font-weight:normal;text-transform:capitalize;}
 #safetyHeader h1 a:hover {color:darkgoldenrod;}
+#safetyHeader span {font-size:small;color:#eab93b;}
 /* Lower Buttons -----------------------------------------------------------------------*/
 .button {border-radius:8px;}
 #emsCall {background-color:#b41d1d;margin-top:40px;margin-bottom:40px;border-radius:10px;}
@@ -26,10 +27,10 @@ ul.nested li span.propValues a.iconSMS {float:right;margin-right:30px;}
 /* Top-bar Menu is fixed bottom ----------------------------------------------------------*/
 .top-bar {position:fixed;bottom:0;width:100%;z-index:99;}
 .top-bar, .top-bar ul {background-color:#eab93b;}
-div.top-bar ul.menu {margin-left:6px;}
+div.top-bar ul.menu {margin-left:8px;}
 div.top-bar ul.menu li a {color:#151c52;font-weight:bold;}
 div.top-bar ul.menu li a:hover {color:#b87a2a;}
-ul li ul.menu li a{  margin:0;  line-height:16px;  font-weight:normal;  background-color:#151c52;  padding:8px 0 8px 8px;  border-radius:10px;  color:#fff;  }
+ul li ul.menu li a{margin:0;  line-height:16px;  font-weight:normal;  background-color:#151c52;  padding:8px 0 8px 8px;  border-radius:10px;  color:#fff;  }
 ul li ul.menu li a:hover{background-color:#eab93b;color:#fff;}
 ul li ul.menu li ul li{padding-bottom:18px;font-weight:bold;margin-right:10px;}
 

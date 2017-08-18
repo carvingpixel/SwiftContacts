@@ -84,12 +84,13 @@ function HSData() {
 function BOEData() {
     showAdminLib(LeadershipLib,"Leadership");
     showAdminLib(MaintenanceLib,"Maintenance");
-    showAdminLib(NutritionLib,"Nutrition");
     showAdminLib(Transportation,"Transportation");
     showAdminLib(Registration,"Registration");
-    showAdminLib(GEMA,"GEMA");
+    showAdminLib(NutritionLib,"Nutrition");
     showAdminLib(Construction,"Construction");
     showAdminLib(NewHope,"NewHope");
+    showAdminLib(GEMA,"GEMA");
+
 }
 
 function AramarkData() {

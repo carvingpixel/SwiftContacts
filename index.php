@@ -44,7 +44,7 @@
 
 <!--header ************************************************-->
 <div id="safetyHeader">
-    <h1><a onclick="dblTap()" href="#">PCSD Safety Test </a></h1>
+    <h1><a onclick="dblTap()" href="#">Safety Contacts</a> <span> V10</span></h1>
 </div>
 
 
@@ -107,7 +107,8 @@
 
         <div style="width:100%;margin:0 auto;text-align:center;">
             <div style="max-width:448px;margin:0 auto; margin-bottom:200px;">
-                <img style="margin:0 auto;;" src="imgs/PCSD.gif"  alt="Paulding County School District" width="100%" height="100%" />
+                <a href="https://intranet2.paulding.k12.ga.us">
+                <img style="margin:0 auto;;" src="imgs/PCSD17.gif"  alt="Paulding County School District" width="100%" height="100%" /></a>
             </div></div>
 
     </div>

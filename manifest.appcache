@@ -1,8 +1,10 @@
 CACHE MANIFEST
 
-# 2017-08-18:V10 // cleaner code
-# More Changes to CSS trying to fix margin lefct
-# Jan Changes: Updated John Cooper  Hutchens ES  // May Changes: Update ZM's for Aramark
+# 2017-08-17:V10
+# Added Intranet link to logo
+# Added Engage. Inspire. Prepare. to logo
+# Renamed Safety Contacts with V10 small added
+# Final Adjustments to the new cont acts safety app
 # Explicitly cached 'master entries'.
 CACHE:
 index.php
@@ -10,7 +12,9 @@ Relocation_by_feeder.pdf
 css/app.css
 css/foundation.css
 css/foundation.min.css
-imgs/PCSD.gif
+imgs/PCSD17.gif
+imgs/iconSMS.png
+imgs/iconTel.png
 js/scriptLib.js
 js/UserLib.js
 js/app.js
