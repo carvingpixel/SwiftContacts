@@ -1,0 +1,24 @@
+CACHE MANIFEST
+
+# 2017-08-18:V10 // cleaner code
+# More Changes to CSS trying to fix margin lefct
+# Jan Changes: Updated John Cooper  Hutchens ES  // May Changes: Update ZM's for Aramark
+# Explicitly cached 'master entries'.
+CACHE:
+index.php
+Relocation_by_feeder.pdf
+css/app.css
+css/foundation.css
+css/foundation.min.css
+imgs/PCSD.gif
+js/scriptLib.js
+js/UserLib.js
+js/app.js
+js/foundation.min.js
+js/vendor/jquery.min.js
+js/vendor/what-input.min.js
+https://intranet2.paulding.k12.ga.us/contactsTEST/index.php
+# Resources that require the user to be online.
+NETWORK:
+*
+
